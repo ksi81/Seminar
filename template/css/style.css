@@ -1,0 +1,618 @@
+body {
+    background-color: white;
+    /* height: 4rem; */
+    /* background: url(../img/background.png) no-repeat;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+    margin-bottom: 2rem;
+
+
+
+    font-family: "Calibri";
+    /* height: 200px; */
+    /* text-align: center; */
+
+
+    /* font-family: "Mary Kay Script Cyrillic"; */
+}
+
+.blok1-text {
+    background: url(../img/women-pink.png) no-repeat;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bgpink {
+    background-color: #ec607d;
+    opacity: 0.8;
+    position: relative;
+    left: -10%;
+    top: 20%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5)
+}
+
+.bgpink p {
+  
+    /* height: 90%; */
+
+    font-family: "Mary Kay Script Cyrillic";
+    color: white;
+    font-size: 2em;
+    padding: 2%;
+    padding-right: 0px;
+    font-weight: 700;
+    opacity: 1;
+    text-align: right;
+    margin-right: 1%;
+}
+
+.seminarheader img{
+    margin: 10%;
+
+}
+
+.blok2-text {
+    background: url(../img/women-purple.png) no-repeat;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bgperpele {
+    background-color:#6b4788;
+    opacity: 0.8;
+    position: relative;
+    left: -10%;
+    top: 20%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5)
+}
+
+.bgperpele h3 {
+   
+    font-family: "Mary Kay Script Cyrillic";
+    color: #e56782;
+    font-size: 2em;
+    padding-top: 5%;
+   
+    padding-left: 3%;
+    font-weight: 700;
+    opacity: 1;
+    text-align: left;
+    margin-right: 1%;
+}
+
+.bgperpele li {
+    list-style-type: none;
+    /* height: 90%; */
+    font-family: "Mary Kay Script Cyrillic";
+    color: white;
+    font-size: 1.5em;
+    padding: 1%;
+    /* padding-right: 0px; */
+    font-weight: 700;
+    opacity: 1;
+    text-align: left;
+    margin-right: 1%;
+    /* line-height: 65%; */
+    padding-bottom: 1%;
+    margin-left: -5%;
+}
+
+
+.pinkmessage{
+    letter-spacing: 2px;
+    margin-top: 2%;
+    background-color: #e56782;
+    font-family: "Mary Kay Script Cyrillic";
+    color: white;
+    font-weight: 700;
+    font-size: 1.5em;
+    /* padding: 1%; */
+    padding-right: 5%;
+    padding-left: 10%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5)
+    
+}
+
+.pinkmessage p{
+   padding-top: 2%;
+}
+
+.pinkmessageleft{
+ letter-spacing: 2px;
+    margin-top: 2%;
+    background-color: #e56782;
+    font-family: "Mary Kay Script Cyrillic";
+    color: white;
+    font-weight: 700;
+    font-size: 1.5em;
+    /* padding: 1%; */
+    padding-left: 5%;
+    padding-right: 10%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5)
+    
+}
+
+.pinkmessageleft p{
+   padding-top: 2%;
+}
+
+
+
+
+
+.paket{
+    min-height: 45rem;
+    background-color: #8867a3;
+    margin-top: 10%;
+
+}
+
+
+.blockpaket{
+    text-align: center;
+    margin-top: -5%;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-bottom: 5%;
+    /* margin-left: -5px; */
+    
+}
+.packetname {
+    color: #e56782;
+    font-family: "Mary Kay Script Cyrillic";
+    font-weight: 700;
+    font-size: 5em;
+    overflow: hidden;
+    text-align: center;
+    
+}
+.blockpaket h3 {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    
+}
+
+
+.mychoice1{
+    /* min-width: 10rem; */
+    background-color: palevioletred;
+    color: white;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 2em;
+    padding-top: 8%;
+
+}
+.mychoice2{
+    /* min-width: 10rem; */
+    background-color: pink;
+    color: white;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 2em;
+    padding-top: 8%;
+
+}
+.mychoice3{
+    /* min-width: 10rem; */
+    background-color: #6b4788;
+    color: white;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 2em;
+    padding-top: 8%;
+
+
+}
+
+
+.blockpaket li{
+    list-style-type: none;
+    font-size: 0.8rem;
+    margin-left: -5%;
+    /* text-align: center; */
+}
+
+
+
+.perlemessage{
+    letter-spacing: 2px;
+    margin-top: 2%;
+    background-color: #8867a3;
+    font-family: "Mary Kay Script Cyrillic";
+    color: white;
+    font-weight: 700;
+    font-size: 1.5em;
+    /* padding: 1%; */
+    padding-left: 5%;
+    padding-right: 10%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5)
+    
+}
+
+.perlemessage p{
+   padding-top: 2%;
+}
+
+.blokennimg{
+    background-color: #d4c3e2;
+}
+
+.blokenn h3{
+    padding-top: 5%;
+    font-family: "Mary Kay Script Cyrillic";
+    color: #8867a3;
+    font-weight: 800;
+    font-size: 2em;  
+}
+
+
+.semkalendar{
+    padding-right: 53%;
+}
+.semkalendar p{
+    /* padding-top: 2%; */
+    position: relative;
+    top: 42px;
+    font-size: 2.5rem; 
+}
+
+.seminarimg{
+    min-height: 500px;
+    background: url(../img/building.png) no-repeat;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.semday1{
+    text-align: center;
+    margin-top: 10%;
+    background-color: #8867a3; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5)
+}
+
+.semday1 h3{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.semday1card-body{
+    text-align: left;
+    margin-top: 2%;
+    background-color: white; 
+    border-radius: 0  0 10px 10px;
+    
+}
+.semdayimg{
+    text-align: center;
+    margin-top: 10%;
+    /* background-color: #8867a3;  */
+    /* border-radius: 10px; */
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-bottom: 2%;
+}
+
+.seminarline{
+    margin-top: -2%;
+    font-family: "Cyrillic";
+    color: black;
+    font-weight: 600;
+    letter-spacing: 0px;
+    font-size: 1rem;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.logo img {
+    padding-left: 6rem;
+    margin-top: -10px;
+    margin-bottom: 2rem;
+}
+
+
+
+.linebox {
+    height: 4rem;
+    background: url(../img/line.png) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-bottom: 2rem;
+
+}
+
+.firsttext {
+    font-size: 1.35rem;
+    text-align: justify;
+}
+
+
+.welcomebox {
+    font-size: 1.35rem;
+    text-align: justify;
+}
+
+ul {
+    list-style-image: url(../img/lips.png);
+    /* Путь к изображению маркера */
+
+}
+
+li {
+    /* padding-top: -1rem; */
+    vertical-align: top;
+    font-size: 1.2rem;
+    text-align: justify;
+    padding-bottom: 0.8rem;
+}
+
+
+
+
+
+.textbox {
+    text-align: center;
+    padding-top: 2%;
+}
+
+.textbox h4 {
+    padding-top: 2%;
+}
+
+.textbox h5 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+
+}
+
+.city_head h4 {
+    text-align: left;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    color: #ec607d;
+
+}
+
+.cityitem {
+    /* border: 2px solid grey; */
+    /* border-radius: 10px; */
+    text-align: center;
+    /* box-shadow: 0 1px 4px rgba(0, 0, 0, .3),
+        -23px 0 20px -23px rgba(0, 0, 0, .6),
+        23px 0 20px -23px rgba(0, 0, 0, .6),
+        inset 0 0 40px rgba(0, 0, 0, .1); */
+    box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);
+    margin-bottom: 8%;
+}
+
+.cityitem p {
+    font-size: 0.8rem;
+    line-height: 0.5rem;
+
+}
+
+.city_footer {
+    padding-bottom: 1rem;
+    width: 100%;
+}
+
+.city_footer button {
+    border-radius: 0;
+    width: inherit;
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+
+.city_body p {
+    text-align: left;
+    padding-left: 1.1rem;
+    line-height: 0rem;
+}
+
+.city_body h5 {
+    padding-bottom: 1rem;
+}
+
+.blok5 h3 {
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.pinktext {
+    padding: 1%;
+    background-color: #ec607d;
+    margin-bottom: 1%;
+    margin-left: 1%;
+}
+
+.footerbox {
+    height: 15rem;
+    background: url(../img/footer.png) no-repeat center;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    /* margin-bottom: 2rem; */
+}
+
+.blackblock {
+    background-color: black;
+    /* padding: 0;
+    margin-left: -1.3%;
+    margin-right: -1.2%;
+    margin-top: 15%; */
+    /* margin-top: 16.6%; */
+    margin-top: -6%;
+}
+
+
+
+.blackblock p {
+    padding: 1%;
+    color: white;
+    font-size: 0.8rem;
+}
+
+.reddiv {
+    padding: 3rem 0rem 0rem 3rem;
+    /* position: absolute; */
+    width: auto;
+    /* height:530px; */
+    z-index: 0;
+
+
+}
+
+.whiteblock {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .3),
+        -23px 0 20px -23px rgba(0, 0, 0, .6),
+        23px 0 20px -23px rgba(0, 0, 0, .6),
+        inset 0 0 40px rgba(0, 0, 0, .1);
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: -40px;
+    overflow: hidden;
+    background-color: white;
+    z-index: 2;
+
+}
+
+.whiteblock img {
+    padding: 1rem;
+}
+
+.reddiv2 {
+    padding: 3rem 0rem 3rem 3rem;
+    /* position: absolute; */
+    width: auto;
+    /* height:530px; */
+
+}
+
+.whiteblock2 p {
+
+
+
+    text-align: center;
+}
+
+.whiteblock2 {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .3),
+        -23px 0 20px -23px rgba(0, 0, 0, .6),
+        23px 0 20px -23px rgba(0, 0, 0, .6),
+        inset 0 0 40px rgba(0, 0, 0, .1);
+    position: relative;
+    margin-left: 10px;
+    margin-top: -80px;
+    /* margin-bottom: -40px; */
+    overflow: hidden;
+    background-color: white;
+    z-index: 2;
+
+}
+
+.whiteblock2 img {
+    padding: 1.3rem;
+}
+
+.saelater {
+    margin-top: 50%;
+}
+
+
+/* regform // */
+
+
+.whiteblock3 {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .3),
+        -23px 0 20px -23px rgba(0, 0, 0, .6),
+        23px 0 20px -23px rgba(0, 0, 0, .6),
+        inset 0 0 40px rgba(0, 0, 0, .1);
+    position: relative;
+    margin-left: 10px;
+    margin-top: -40px;
+    /* margin-bottom: -40px; */
+    overflow: hidden;
+    background-color: white;
+    z-index: 2;
+
+}
+
+.reddiv3 {
+    padding: 2rem 0rem 2rem 2rem;
+    /* position: absolute; */
+    width: auto;
+    /* height:530px; */
+    margin-top: 1.5rem;
+
+}
+
+
+
+.textbox form {
+    text-align: left;
+}
+
+form button {
+    text-align: center;
+
+}
+
+.regform {
+    /* text-align: center;
+    width: 500px; */
+}
+
+.myblockreg {
+    height: 100%;
+    min-height: 100vh;
+    width: inherit;
+    background: url(../template/img/background.png) no-repeat top center;
+
+}
+
+.divregbtn {
+    text-align: center;
+}
+
+* .formbg {
+    padding: 2rem;
+    background-color: #dc3545;
+}
