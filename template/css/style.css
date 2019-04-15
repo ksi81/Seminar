@@ -9,9 +9,9 @@
 
 
 body {
-    /* overflow-x: hidden; */
-    height: 100%;
-    width: 100%;
+    overflow-x: hidden;
+    /* height: 100vh; */
+    /* width: 100vh; */
     margin: 0px;
     padding: 0px;
     /* overflow-y:hidden; */
@@ -37,6 +37,9 @@ body {
       
     
 }
+.container{
+overflow: hidden;}
+
 
 .blok1-text {
     background: url(../img/women-pink.png) no-repeat;
@@ -434,14 +437,15 @@ font-family: "Mary Kay Script Cyrillic";
 
 
 html, body {
-    overflow: hidden;
-    height: 100%;
-    box-sizing: border-box;
+    overflow-x: hidden;
+    /* height: 100%; */
+    /* box-sizing: border-box; */
     margin: 0;
   }
   
   body {
     overflow-y: scroll;
-    width: calc(100% + 20px);
-    padding: 8px;
+    /* width: calc(100% + 20px); */
+    /* padding: 8px; */
+    overflow-x: hidden;
   }
