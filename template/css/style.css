@@ -1,3 +1,40 @@
+@font-face {
+    font-family: 'Mary Kay Script Cyrillic'; /* Гарнитура шрифта */
+    src: url(../fonts/MKScriptCYRReg.eot); /* Для IE5-8 */
+    src: local(Mary Kay Script Cyrillic), url(../fonts/MaryKayScriptCYRRegular.ttf); /* Для остальных браузеров */
+    font-weight: 400;
+	font-style: normal;
+
+   }
+
+
+/* @font-face
+{
+	font-family: '__Calibri_5';
+	src: url('../fonts/calibrib.eot');
+	src: local('☺'), url('../fonts/calibri-bold.woff') format('woff'), url('../fonts/calibri-bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Calibri_5';
+	src: url('../fonts/calibrireg.eot');
+	src: local('☺'), url('../fonts/calibrireg.woff') format('woff'), url('../fonts/calibrireg.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Calibri_5';
+	src: url('../fonts/calibril.eot');
+	src: local('☺'), url('../fonts/calibri-light.woff') format('woff'), url('../fonts/calibri-light.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+} */
+
 body {
     background-color: white;
     /* height: 4rem; */
@@ -40,8 +77,8 @@ body {
 .bgpink p {
   
     /* height: 90%; */
-
-    font-family: "Mary Kay Script Cyrillic";
+font-family: "Mary Kay Script Cyrillic";
+    /* font-family: "Mary Kay Script Cyrillic"; */
     color: white;
     font-size: 2em;
     padding: 2%;
@@ -320,8 +357,11 @@ body {
 }
 
 
+.footer-button{
+    text-align: center;
+}
 
-
+palevioletred
 
 
 
