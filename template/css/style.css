@@ -42,7 +42,7 @@ body {
     width: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-y:hidden;
+    /* overflow-y:hidden; */
     background-color: white;
     /* height: 4rem; */
     /* background: url(../img/background.png) no-repeat;
@@ -203,7 +203,7 @@ font-family: "Mary Kay Script Cyrillic";
 
 .blockpaket{
     text-align: center;
-    margin-top: -5%;
+    margin-top: -2%;
     background-color: white;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border-radius: 10px;
@@ -310,7 +310,7 @@ font-family: "Mary Kay Script Cyrillic";
 .semkalendar p{
     /* padding-top: 2%; */
     position: relative;
-    top: 42px;
+    /* top: 42px; */
     font-size: 2.5rem; 
 }
 
@@ -367,6 +367,73 @@ font-family: "Mary Kay Script Cyrillic";
 .footer-button{
     text-align: center;
 }
+
+
+
+.delivery p {
+    text-align: justify;
+}
+
+
+.lastblock p {
+    text-align: justify;
+}
+
+
+
+
+.semawards li {
+    text-align: left;
+    font-size: 1em;
+    line-height: 1em;
+}
+.semawards h3 {
+    text-align: center;
+    /* font-size: 1em; */
+    color: #8867a3; 
+    padding-top: 5%;
+    font-family: "Mary Kay Script Cyrillic";
+    font-weight: 600;
+
+}
+
+.semawards2 li {
+    text-align: left;
+    font-size: 1em;
+    font-size: 1em;
+    line-height: 1em;
+
+}
+.semawards2 h3 {
+    padding-top: 5%;
+    text-align: center;
+    color: palevioletred;
+    font-family: "Mary Kay Script Cyrillic";
+    font-weight: 600;
+
+}
+
+.bgperpele2 {
+    background-color:#6b4788;
+    opacity: 0.7;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5)
+}
+
+.bgperpele2 li {
+    list-style-type: none;
+    font-family: "Mary Kay Script Cyrillic";
+    color: white;
+    font-size: 2em;
+    padding-top: 5%;
+   
+    padding-left: 7%;
+    font-weight: 600;
+    opacity: 1;
+    text-align: left;
+    margin-right: 1%;
+
+}
+
 
 
 
