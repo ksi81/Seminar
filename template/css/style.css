@@ -36,6 +36,13 @@
 } */
 
 body {
+
+   
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-y:hidden;
     background-color: white;
     /* height: 4rem; */
     /* background: url(../img/background.png) no-repeat;
@@ -119,7 +126,7 @@ font-family: "Mary Kay Script Cyrillic";
     font-size: 2em;
     padding-top: 5%;
    
-    padding-left: 3%;
+    padding-left: 7%;
     font-weight: 700;
     opacity: 1;
     text-align: left;
@@ -140,7 +147,7 @@ font-family: "Mary Kay Script Cyrillic";
     margin-right: 1%;
     /* line-height: 65%; */
     padding-bottom: 1%;
-    margin-left: -5%;
+    margin-left: -2%;
 }
 
 
@@ -361,7 +368,6 @@ font-family: "Mary Kay Script Cyrillic";
     text-align: center;
 }
 
-palevioletred
 
 
 
@@ -371,6 +377,17 @@ palevioletred
 
 
 
+
+
+
+
+
+
+@media only screen and (max-width:960px){
+    body{
+        overflow-y:scroll;
+    }
+}
 
 
 
